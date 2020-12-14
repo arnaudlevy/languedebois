@@ -1,0 +1,25 @@
+title: Dictionnaire Collectif de la Langue de Bois et des concepts opérationnels
+
+collections:
+  authors:
+    output: true
+    permalink: /auteurs/:title
+  words:
+    output: true
+    permalink: /mots/:title
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "words"
+    values:
+      layout: "word"
+  - scope:
+      path: ""
+    values:
+      layout: "default"

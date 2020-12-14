@@ -1,0 +1,12 @@
+---
+title: Mots
+---
+<ul>
+  {% for word in site.words %}
+    <li>
+      <h2>
+        <a href="{{word.url}}">{{ word.title }}</a>
+      </h2>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,11 @@
+---
+title: Auteurs
+permalink: /auteurs
+---
+<ul>
+  {% for author in site.authors %}
+    <li>
+      <h2><a href="{{ author.url }}">{{ author.title }}</a></h2>
+    </li>
+  {% endfor %}
+</ul>

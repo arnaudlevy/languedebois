@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.sass",
+		"_sass/main.sass"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n",
+		"@import url(\"//hello.myfonts.net/count/3cd072\");\n\n@font-face {\n  font-display: swap;\n  font-family: 'TTMarxiana-Antiqua';\n  src: url('/assets/fonts/ttmarxiana-antiqua/font.woff2') format('woff2'), url('/assets/fonts/ttmarxiana-antiqua/font.woff') format('woff'); }\n\n@font-face {\n  font-display: swap;\n  font-family: 'TTMarxiana-Antiqua';\n  font-style: italic;\n  src: url('/assets/fonts/ttmarxiana-antiqua-italic/font.woff2') format('woff2'), url('/assets/fonts/ttmarxiana-antiqua-italic/font.woff') format('woff'); }\n\n@font-face {\n  font-display: swap;\n  font-family: 'TTMarxiana-Grotesque';\n  font-variant-ligatures: normal;\n  src: url('/assets/fonts/ttmarxiana-grotesque/font.woff2') format('woff2'), url('/assets/fonts/ttmarxiana-grotesque/font.woff') format('woff'); }\n\n* {\n  font-family: 'TTMarxiana-Antiqua';\n  font-variant-ligatures: discretionary-ligatures; }\n\nh1 {\n  font-style: italic;\n  font-weight: normal; }\n\nblockquote {\n  font-size: 22px;\n  font-style: italic;\n  margin-left: 30px; }\n\ncode {\n  display: block;\n  font-family: 'TTMarxiana-Grotesque';\n  font-size: 22px;\n  margin-left: 30px; }\n"
+	],
+	"names": [],
+	"mappings": "ACAA,OAAO,CAAC,uCAAI;AAEZ,UAAU,GACR,YAAY,EAAE,IAAI,EAClB,WAAW,EAAE,oBAAoB,EACjC,GAAG,EAAE,kDAAkD,CAAC,eAAe,EAAE,iDAAiD,CAAC,cAAc;;AAE3I,UAAU,GACR,YAAY,EAAE,IAAI,EAClB,WAAW,EAAE,oBAAoB,EACjC,UAAU,EAAE,MAAM,EAClB,GAAG,EAAE,yDAAyD,CAAC,eAAe,EAAE,wDAAwD,CAAC,cAAc;;AAEzJ,UAAU,GACR,YAAY,EAAE,IAAI,EAClB,WAAW,EAAE,sBAAsB,EACnC,sBAAsB,EAAE,MAAM,EAC9B,GAAG,EAAE,oDAAoD,CAAC,eAAe,EAAE,mDAAmD,CAAC,cAAc;;AAE/I,AAAA,CAAC,CAAC,EACA,WAAW,EAAE,oBAAoB,EACjC,sBAAsB,EAAE,uBAAuB,GAAG;;AAEpD,AAAA,EAAE,CAAC,EACD,UAAU,EAAE,MAAM,EAClB,WAAW,EAAE,MAAM,GAAG;;AAExB,AAAA,UAAU,CAAC,EACT,SAAS,EAAE,IAAI,EACf,UAAU,EAAE,MAAM,EAClB,WAAW,EAAE,IAAI,GAAG;;AAEtB,AAAA,IAAI,CAAC,EACH,OAAO,EAAE,KAAK,EACd,WAAW,EAAE,sBAAsB,EACnC,SAAS,EAAE,IAAI,EACf,WAAW,EAAE,IAAI,GAAG"
+}

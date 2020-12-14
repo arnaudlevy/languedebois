@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+<ul>
+  {% assign filtered_words = site.words | where: 'author', page.title %}
+  {% for word in filtered_words %}
+    <li><a href="{{ word.url }}">{{ word.title }}</a></li>
+  {% endfor %}
+</ul>
