@@ -1,0 +1,21 @@
+---
+title: Bibliographie
+---
+- La novlangue néo-libérale. La rhétorique du fétichisme capitaliste. Alain BIHR. Editions Page deux, collection «Cahiers libres». 2007
+- Cent mots pour résister aux sortilèges du management. Gérard LAYOLLE. Editions seuil, collection «les empêcheurs de penser en rond" 2008
+- Le nouvel esprit du capitalisme. Luc Boltanski et Eve Chiapello. Gallimard. 1999
+- Les nouveaux chiens de garde. Serge Halimi. Raisons d’agir. 1997
+- Les évangélistes du marché. Keith Dixon. 1998
+- Les nouveaux mots du pouvoir. Abécédaire critique. Sous la direction de Pascal Durand. Editions Atlan. 2007
+- Le pouvoir des mots. Politique du performatif. Judith Butler. Editions Amsterdam. 2004
+- La barbarie douce. La modernisation aveugle des entreprises et de l’école. Jean-Pierre Le Goff. La Découverte. 1999
+- LQR. La propagande au quotidien. Eric Hazan. Raisons d’agir. 2006.
+- Pas de pitié pour les gueux. Sur les théories économiques du chômage. Laurent Cordonnier. Liber. 2000
+- Les Econoclastes. Petit bréviaire des idées reçues en économie. La Découverte. 2003
+- Petit abécédaire de mots détournés. Nicole Malinconi. Editions Grand espace nord (Belgique). 2008
+- Mots à maux. Dictionnaire de la lepénisation des esprits. Pierre Tévaian - Sylvie Tissot. Editions Dagorno. 1991
+- "1984". George Orwell et Amélie Audiberti. Gallimard. 1950.
+- Storytelling. La machine à fabriquer des histoires et à formater les esprits. Christian Salmon. La Découverte. 2007
+- Petit lexique de la langue de bois. De quelques concepts et faux repères. Thérèse Mercury. L’Harmattan. 2000
+- Les mots. Jean-Paul Sartre. Gallimard. Poche. 1ère édition Gallimard 1964.
+- Le dictionnaire des mots rares et précieux. Editions 10/18. 2005
