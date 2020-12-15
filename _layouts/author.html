@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<ul>
+<ul class="list-unstyled">
   {% assign filtered_words = site.words | where: 'author', page.title %}
   {% for word in filtered_words %}
-    <li><a href="{{ word.url }}">{{ word.title }}</a></li>
+    <li><h2><a href="{{ word.url }}">{{ word.title }}</a></h2></li>
   {% endfor %}
 </ul>
