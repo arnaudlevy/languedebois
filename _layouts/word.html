@@ -9,5 +9,7 @@ layout: default
 
 {% assign author = site.authors | where: 'title', page.author | first %}
 {% if author %}
-  <a href="{{author.url}}">{{ author.title }}</a>
+  <div class="author">
+    <a href="{{author.url}}">{{ author.title }}</a>
+  </div>
 {% endif %}
